@@ -10,3 +10,9 @@ seller can add the name of the product, add some photographs of the item, add th
 easily update product details by clicking edit buttons. Then newly added details are saved to the database showing a toast message saying, “product data edited 
 successfully”. After successfully submitting the form with product details, a toast message is popped up showing “Successfully added product details”. 
 
+1.User Authentication Via Google Authentication
+2.Error Handling
+3.XML language - For Create UI
+4.Using multiple Activities/Screens in a App
+5.JAVA language for backend
+6.DataBase - Firebase
